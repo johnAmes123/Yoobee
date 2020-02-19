@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoobeeAPI", "YoobeeAPI\YoobeeAPI.csproj", "{342E80C4-CD19-4836-9433-1422BE61EE68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{342E80C4-CD19-4836-9433-1422BE61EE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342E80C4-CD19-4836-9433-1422BE61EE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342E80C4-CD19-4836-9433-1422BE61EE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342E80C4-CD19-4836-9433-1422BE61EE68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4342645-F872-4469-B8C4-CEF5650F408B}
+	EndGlobalSection
+EndGlobal
